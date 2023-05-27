@@ -1,4 +1,4 @@
-# goit-markup-hw-01  [ Done ]
+# goit-markup-hw-01  = [ Done ]
 
 https://uxooss.github.io/goit-markup-hw-01/
 
